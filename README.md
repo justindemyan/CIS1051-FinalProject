@@ -1,7 +1,3 @@
-
-https://user-images.githubusercontent.com/81829670/116126755-00e0c300-a695-11eb-9e3b-e8a418296b2b.mp4
-
-
 # CIS1051-FinalProject
 Final Project for CIS 1051 in Python
 
